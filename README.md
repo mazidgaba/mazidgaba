@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gulam%20%20Mazidtype=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gulam%20Mazid&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%26%20Applied%20Research&descAlignY=58&descAlign=50&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Gulam%20Mazid&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%26%20Applied%20Research&descAlignY=56&descAlign=50&descSize=18" width="100%" />
 </p>
 
 <p align="center">
@@ -22,41 +22,46 @@
   <img src="https://komarev.com/ghpvc/?username=mazidgaba&label=Profile%20Views&color=2E9EF7&style=flat" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+</p>
 
-### 🎓 Qualifications
+### 🎓 Education
 
-| Degree | Institute | Duration | Score |
-|---|---|---|---|
-| M.Tech, Data Science | Jawaharlal Nehru University, New Delhi | 2023 – 2025 | Completed |
-| B.Tech, Computer Science | Maulana Azad National Urdu University, Hyderabad | 2019 – 2023 | CGPA 8.28 |
-| Higher Secondary (Science) | Saiyyid Hamid Sr. Sec. School, AMU Aligarh | 2017 – 2019 | — |
+<table align="center">
+  <tr>
+    <td align="center">🎓</td>
+    <td><b>M.Tech, Data Science</b><br/>Jawaharlal Nehru University, New Delhi<br/><sub>2023 – 2025 · Completed</sub></td>
+  </tr>
+  <tr>
+    <td align="center">💻</td>
+    <td><b>B.Tech, Computer Science</b><br/>Maulana Azad National Urdu University, Hyderabad<br/><sub>2019 – 2023</sub></td>
+  </tr>
+  <tr>
+    <td align="center">📘</td>
+    <td><b>Higher Secondary (Science)</b><br/>Saiyyid Hamid Sr. Sec. School, AMU Aligarh<br/><sub>2017 – 2019</sub></td>
+  </tr>
+</table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+</p>
 
 ### 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
-  <br/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,html&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+</p>
 
 ### 🎯 Hobbies
 
@@ -64,7 +69,9 @@
   🏸 Badminton &nbsp;•&nbsp; 💻 Hackathons &nbsp;•&nbsp; 🧩 Coding Challenges
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+</p>
 
 ### 📬 Get in Touch
 
@@ -73,17 +80,14 @@
   🔗 <a href="https://www.linkedin.com/in/gulammazid">linkedin.com/in/gulammazid</a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazidgaba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazidgaba&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
 </p>
 
+### 🔥 Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazidgaba&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazidgaba&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
@@ -93,8 +97,6 @@
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mazidgaba/mazidgaba/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
-
----
 
 <p align="center"><i>Open to research collaborations and data science opportunities.</i></p>
 
