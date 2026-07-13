@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Gulam Mazid 👋</h1>
-
-<h3 align="center">Data Scientist | Machine Learning & Applied Research</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gulam%20Mazid&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%26%20Applied%20Research&descAlignY=58&descAlign=50&descSize=18" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gulammazid">
@@ -16,6 +16,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=M.Tech+in+Data+Science%2C+JNU+New+Delhi;Machine+Learning+%7C+NLP+%7C+Bioinformatics;Building+models+that+find+patterns+in+noise" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mazidgaba&label=Profile%20Views&color=2E9EF7&style=flat" />
 </p>
 
 ---
@@ -54,10 +58,11 @@
 
 ---
 
-### 🏸 Beyond Code
+### 🎯 Hobbies
 
-- Competitive **badminton** player — Runner-up, Singles, Jashn-e-Bahara (MANUU Students' Union) 2022
-- Active in **hackathons & coding events** — 3rd Place, MANUU Coding Club Hackathon, Techfest 2022
+<p align="center">
+  🏸 Badminton &nbsp;•&nbsp; 💻 Hackathons &nbsp;•&nbsp; 🧩 Coding Challenges
+</p>
 
 ---
 
@@ -81,6 +86,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazidgaba&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mazidgaba/mazidgaba/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mazidgaba/mazidgaba/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mazidgaba/mazidgaba/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
 ---
 
 <p align="center"><i>Open to research collaborations and data science opportunities.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
