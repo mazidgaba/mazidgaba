@@ -15,18 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=M.Tech+Data+Science+%40+JNU+New+Delhi;Machine+Learning+%7C+NLP+%7C+Bioinformatics;Building+models+that+find+patterns+in+noise" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=M.Tech+in+Data+Science%2C+JNU+New+Delhi;Machine+Learning+%7C+NLP+%7C+Bioinformatics;Building+models+that+find+patterns+in+noise" />
 </p>
-
----
-
-### 🧬 About Me
-
-- 🎓 Currently pursuing **M.Tech in Data Science** at **Jawaharlal Nehru University**, New Delhi
-- 🔬 My research investigates the expression of **circadian rhythm genes in autism**, applying ML techniques to uncover biological patterns linked to autism spectrum traits
-- 💼 Former **Subject Matter Expert (CS)** at Chegg India — resolved advanced computer science questions with a 92% approval rate
-- 📊 Interned at the **Ministry of Cooperation, Govt. of India**, working on data cleaning, transformation, and visualization of cooperative sector records
-- 💡 I enjoy problems at the intersection of **data, biology, and human language**
 
 ---
 
@@ -34,7 +24,7 @@
 
 | Degree | Institute | Duration | Score |
 |---|---|---|---|
-| M.Tech, Data Science | Jawaharlal Nehru University, New Delhi | 2023 – 2025 | 79.4% |
+| M.Tech, Data Science | Jawaharlal Nehru University, New Delhi | 2023 – 2025 | Completed |
 | B.Tech, Computer Science | Maulana Azad National Urdu University, Hyderabad | 2019 – 2023 | CGPA 8.28 |
 | Higher Secondary (Science) | Saiyyid Hamid Sr. Sec. School, AMU Aligarh | 2017 – 2019 | — |
 
