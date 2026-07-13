@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Gulam%20Mazid&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%26%20Applied%20Research&descAlignY=56&descAlign=50&descSize=18" width="100%" />
-</p>
+<h1 align="center">Gulam Mazid</h1>
+<h3 align="center">Data Scientist | Machine Learning &amp; Applied Research</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gulammazid">
@@ -22,30 +21,29 @@
   <img src="https://komarev.com/ghpvc/?username=mazidgaba&label=Profile%20Views&color=2E9EF7&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
-</p>
+---
 
 ### 🎓 Education
 
-<table align="center">
-  <tr>
-    <td align="center">🎓</td>
-    <td><b>M.Tech, Data Science</b><br/>Jawaharlal Nehru University, New Delhi<br/><sub>2023 – 2025 · Completed</sub></td>
-  </tr>
-  <tr>
-    <td align="center">💻</td>
-    <td><b>B.Tech, Computer Science</b><br/>Maulana Azad National Urdu University, Hyderabad<br/><sub>2019 – 2023</sub></td>
-  </tr>
-  <tr>
-    <td align="center">📘</td>
-    <td><b>Higher Secondary (Science)</b><br/>Saiyyid Hamid Sr. Sec. School, AMU Aligarh<br/><sub>2017 – 2019</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <b>🎓 M.Tech, Data Science</b><br/>
+  Jawaharlal Nehru University, New Delhi<br/>
+  <img src="https://img.shields.io/badge/2023--2025-Completed-2E9EF7?style=flat-square" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+  <b>💻 B.Tech, Computer Science</b><br/>
+  Maulana Azad National Urdu University, Hyderabad<br/>
+  <img src="https://img.shields.io/badge/2019--2023-Graduated-2E9EF7?style=flat-square" />
 </p>
+
+<p align="center">
+  <b>📘 Higher Secondary (Science)</b><br/>
+  Saiyyid Hamid Sr. Sec. School, AMU Aligarh<br/>
+  <img src="https://img.shields.io/badge/2017--2019-2E9EF7?style=flat-square" />
+</p>
+
+---
 
 ### 🛠️ Skills
 
@@ -59,9 +57,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
-</p>
+---
 
 ### 🎯 Hobbies
 
@@ -69,9 +65,7 @@
   🏸 Badminton &nbsp;•&nbsp; 💻 Hackathons &nbsp;•&nbsp; 🧩 Coding Challenges
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
-</p>
+---
 
 ### 📬 Get in Touch
 
@@ -80,9 +74,7 @@
   🔗 <a href="https://www.linkedin.com/in/gulammazid">linkedin.com/in/gulammazid</a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
-</p>
+---
 
 ### 🔥 Activity
 
@@ -98,6 +90,6 @@
   </picture>
 </p>
 
-<p align="center"><i>Open to research collaborations and data science opportunities.</i></p>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<p align="center"><i>Open to research collaborations and data science opportunities.</i></p>
